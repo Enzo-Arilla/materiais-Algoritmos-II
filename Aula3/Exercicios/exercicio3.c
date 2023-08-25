@@ -9,13 +9,15 @@ int main() {
     float mediaIdade = 0.0;
     int i;
     
+    printf("Digite o numero de alunos: ");
     scanf("%d", &n);
     
-    int *alunos = malloc(n * sizeof(int));
+    int *alunos = (int*) malloc(n * sizeof(int));
     
     if (alunos == NULL)
         return 1;
     
+    printf("\nDigite as idades:\n");
     for (i = 0; i < n; i++)
     {
         scanf("%d", &alunos[i]); 
