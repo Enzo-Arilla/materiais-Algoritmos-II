@@ -7,7 +7,7 @@ int isPalindrome(char str[], int inicio, int fim) {
         return 1;
     }
     
-    // Verifique se os caracteres nas posições 'inicio' e 'fim' são iguais
+    // Verifica se os caracteres nas posições 'inicio' e 'fim' são iguais
     if (str[inicio] != str[fim]) {
         return 0; 
     }
