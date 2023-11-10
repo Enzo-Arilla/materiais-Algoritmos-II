@@ -11,8 +11,7 @@ int main() {
     printf("Digite um numero inteiro: ");
     scanf("%d", &numero);
     
-    retorno = verifica_p
-    rimo(numero);
+    retorno = verifica_primo(numero);
     
     if (retorno)
         printf("Eh um numero primo\n");
