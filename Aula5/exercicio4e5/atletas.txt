@@ -1,0 +1,5 @@
+Nome: Enzo | Esporte: Basquete | Idade: 19 | Medalhas: 1
+Nome: Arilla | Esporte: Volei | Idade: 20 | Medalhas: 2
+Nome: Torresendi | Esporte: Futebol | Idade: 21 | Medalhas: 4
+Nome: Francisca | Esporte: Tenis | Idade: 22 | Medalhas: 4
+Nome: Elisa | Esporte: Natacao | Idade: 23 | Medalhas: 5
